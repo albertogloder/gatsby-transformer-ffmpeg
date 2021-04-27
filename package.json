@@ -25,7 +25,7 @@
   "license": "MIT",
   "peerDependencies": {
     "gatsby": "^2.0.33",
-    "gatsby-plugin-ffmpeg": "0.3.1"
+    "gatsby-plugin-ffmpeg": "https://github.com/albertogloder/gatsby-plugin-ffmpeg"
   },
   "repository": "https://github.com/Mike-Dax/gatsby-transformer-ffmpeg",
   "scripts": {
